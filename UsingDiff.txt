@@ -1,0 +1,1 @@
+Using diff to find bugs seems very useful.  I use diff currently from time to time at my current job.  Although i'm using it for a linux based system and not for git.  But it seems very similar and makes finding diffrences in code or config files much easier.  
